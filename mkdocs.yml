@@ -13,6 +13,7 @@ pages:
         - 'Wallets': English/projects/wallet.md
         - 'Tokenization Services': English/projects/tokenization.md
         - Contribution: English/contribution.md
+        #- Code Guidelines: English/Guidelines.md
     - 日语:
         - Overview: Japanese/overview.md
         - LRC Token: Japanese/token.md
