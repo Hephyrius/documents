@@ -18,6 +18,6 @@ For git repositories that have releases (this one not included), we will adopt [
 
 ## Contributors
 
-If your pull requests are ever accepted and merged, please create a pull request to put yoruself in this list.
+If your pull requests are ever accepted and merged, please create a pull request to put yourself in this list.
 
 - Fei YUAN -  Reviewed LRC token smart-contract and created an important pull request.
